@@ -7,7 +7,7 @@
 ## Rules: 
 ###
 1. A randomly word is generated and the user gets 6 tries
-2. If the guesses character is correct and correctly placed then the character turns green
+2. If the guessed character is correct and correctly placed then the character turns green
 3. If the guessed character is present in the word but misplaced then the character turns yellow
 4. If the guessed character turns white then the character is not present in the word 
 
